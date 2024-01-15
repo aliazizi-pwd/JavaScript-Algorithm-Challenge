@@ -74,5 +74,5 @@ By following Algorithmic Mind Exercises, you embark on a journey of continuous i
 
 
 ```bash
-git clone 
+git clone https://github.com/aliazizi-pwd/JavaScript-Algorithm-Challenge
 
